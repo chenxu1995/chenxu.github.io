@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Chen Xu"
-description              : &description "personal description"
+description              : &description "PhD Student in hearing research"
 url                      : https://chenxu1995.github.io/chenxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenxu.github.io"
@@ -21,10 +21,10 @@ repository               : "chenxu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_fig.jpeg"
   name             : "Chen Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in hearing research"
   location         : "Oldenburg, Germany"
   employer         : "University of Oldenburg"
   uri              : # URL
