@@ -6,8 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage!
 
-I am a PhD student at the university of Oldenburg. 
+![AI image](/images/ai-image.jpeg){: .align-right width="300px"}
 
-My research interests are mobile health application, machine learning, psychophysical and hearing research.
+😄 Welcome to my homepage!
+
+👨‍🎓 I am a PhD student at the Carl von Ossietzky Universität Oldenburg.
+
+📡 My research interests are mobile health application, machine learning, psychophysical and hearing research.
+
+
