@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![AI image](/images/ai-image.jpeg?raw=true){: .align-right width="300px"}
+![](/images/foo-bar-identity.jpg){: .align-right width="300px"}
 
 😄 Welcome to my homepage!
 
