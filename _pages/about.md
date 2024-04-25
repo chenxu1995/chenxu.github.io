@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-![AI image](/images/ai-image.jpeg){: .align-right width="300px"}
+![AI image](/images/ai-image.jpeg?raw=true){: .align-right width="300px"}
 
 😄 Welcome to my homepage!
 
-👨‍🎓 I am a PhD student at the Carl von Ossietzky Universität Oldenburg.
+👨‍🎓 Currently, I am a PhD student at the Carl von Ossietzky Universität Oldenburg. I obtained my master degree at the Technische Universität München (TUM) in Germany and my bachelor degree at the Northwestern Polytechnical University (NWPU) in China. 
 
 📡 My research interests are mobile health application, machine learning, psychophysical and hearing research.
 
