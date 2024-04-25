@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img align = "right" src="/images/ai-image.jpg" style="width:300px;"/>
+<img align = "right" src="images/ai-image.jpg" style="width:300px;"/>
 <!---
 ![](/images/foo-bar-identity.jpg){: .align-right width="300px"}
 -->
